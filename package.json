@@ -1,0 +1,19 @@
+{
+  "name": "module5-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prudvi-reddy/Module5-Assignment.git"
+  },
+  "author": "Prudvi kumar reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prudvi-reddy/Module5-Assignment/issues"
+  },
+  "homepage": "https://github.com/prudvi-reddy/Module5-Assignment#readme"
+}
